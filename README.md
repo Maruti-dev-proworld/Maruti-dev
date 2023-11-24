@@ -1,4 +1,2 @@
 # Maruti-dev
-
-
-this is devfolio
+ devfolio
